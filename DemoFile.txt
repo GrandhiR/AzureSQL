@@ -2,3 +2,5 @@ This is a sample file for demo of Git hub
 
 Adding a new line
 Adding new line in Master
+
+Branches can be created directly from file while making modification
