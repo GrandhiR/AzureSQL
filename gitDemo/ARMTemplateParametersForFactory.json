@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "gitDemo"
+		},
+		"azureBlob_connectionString": {
+			"value": ""
 		}
 	}
 }
